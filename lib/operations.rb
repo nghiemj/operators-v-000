@@ -5,7 +5,7 @@ else speed == "50"
   return false
  end 
 end
-
+binding.pry 
 
 
 def not_safe?(speed)
